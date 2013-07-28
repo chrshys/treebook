@@ -7,6 +7,8 @@ gem 'rails', '3.2.12'
 
 gem 'sqlite3'
 gem 'devise', '1.4.7'
+gem 'simple_form'
+gem 'country_select'
 
 # Gems used only for assets and not required
 # in production environments by default.
