@@ -10,7 +10,7 @@ gem 'simple_form'
 gem 'country_select'
 gem 'bcrypt-ruby', '~> 3.0.0'
 
-group :developmen, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 
