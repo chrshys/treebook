@@ -17,4 +17,8 @@ end
 	assert_response :success
 end
 
+test "that a profile page works" do
+get '/chrishayes'
+assert_response :success
+
 end
